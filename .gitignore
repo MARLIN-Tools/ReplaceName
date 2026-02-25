@@ -1,0 +1,21 @@
+﻿# Build artifacts
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.dll
+
+# Logs and generated reports
+*.log
+*.csv
+*.txt
+*.pgn
+config.json
+
+# Local scratch
+tmp_test.cpp
+souper_try/
+
+# Keep this source of truth file tracked
+!actual_full_engine_name.txt
